@@ -2,6 +2,8 @@
 
 cafe place pick :p
 
+
+
 ## 📋 프로젝트 소개
 
 감각적인 카페를 찾고 계신가요? :~~p~~
@@ -21,6 +23,7 @@ cafe place pick :p
 ✅  C:P:P는 실제 사용한 사용자들의 솔직한 평가를 기반으로 하여 다른 사용자들에게 정보를 공유할 수 있습니다.
 
 
+
 ### 주요기능
 
 - 별점 세분화(ex. 주차 가능, 화장실 …)
@@ -30,16 +33,21 @@ cafe place pick :p
 - 최근 본 카페, 게시물 저장
 - 내 위치 기반 지도 카페 표시 및 리스트
 
+
 ### 기획의도
 
 - 사용들끼리 영수증 인증하는 문화를 만듦으로써 불필요한 광고차단
 - 실제 사용한 사용자들의 솔직한 평가를 기반으로 하여 다른 사용자들에게 정보 공유
 
+
+
 ## ⚙️ 사용 스택
 ![Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4b172d2b-8b8a-43ed-9f0e-400cb5effcf5/Untitled.png)
 
 
+
 ## 🚢 멤버
+
 ### 구현준
 
 - Role : Team Crew
@@ -77,3 +85,4 @@ cafe place pick :p
 - Github : 🔗 [ryuttung](https://github.com/ryuttung)
 - Email : ✉️ seung43422@gmail.com
 - Works
+
