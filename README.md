@@ -42,7 +42,8 @@ cafe place pick :p
 
 
 ## ⚙️ 사용 스택
-![Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4b172d2b-8b8a-43ed-9f0e-400cb5effcf5/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/90032920/192251296-f63d7898-b7f7-477c-8aac-5d6e11719623.png)
+
 
 
 
