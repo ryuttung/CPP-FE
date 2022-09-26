@@ -89,32 +89,39 @@ cafe place pick :p
 
 
 ## 💁🏻 More Info
-### ERD(DB설계도)
+<details>
+<summary>ERD(DB설계도)</summary>
+![Untitled (1)](https://user-images.githubusercontent.com/90032920/192253255-6dfe0e6b-a791-437a-b3df-1be23a63ea11.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/62aca5f9-4c0a-44d5-b3bb-6ddd70809a98/Untitled.png)
+</details>
 
-### 메뉴 구성도
+<details>
+<summary>메뉴 구성도</summary>
+![cpp_메뉴구성도 (1)](https://user-images.githubusercontent.com/90032920/192253235-04981423-6497-44ee-bc8b-176aeead1c64.png)
 
-![cpp_메뉴구성도 (1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a294bfe-a29e-4d89-a7cc-8a2464adf573/cpp_메뉴구성도_(1).png)
+</details>
 
-### UI-Design
+<details>
+<summary>UI-Design</summary>
+![ver2_내주변리스트 - 990px (1)](https://user-images.githubusercontent.com/90032920/192253111-d9345374-cf17-4d5d-8f53-1bb3ba2ce3a4.png)
+![ver2_게시물 작성- 990px](https://user-images.githubusercontent.com/90032920/192253127-80f57c99-377b-4094-b9b5-8b4ac77be318.png)
+![ver2_마이페이지 - 990px (2)](https://user-images.githubusercontent.com/90032920/192253189-88aef292-bc75-4be4-9614-d4fbabf1f49f.png)
 
-![ver2_내주변리스트 - 990px (1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/97d42df8-afa2-46e1-a04d-1c98f485484e/ver2_내주변리스트_-_990px_(1).png)
+</details>
 
-![ver2_게시물 작성- 990px.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f863d59b-1972-4c39-91a4-574ce057ef21/ver2_게시물_작성-_990px.png)
+<details>
+<summary>기능정의서</summary>
+![Untitled (2)](https://user-images.githubusercontent.com/90032920/192253395-ccdbe445-bfe5-4810-836a-13a9b5c4da11.png)
 
-![ver2_게시물본문 - 990px (1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/831889da-0f0e-4d84-b986-801f12879a99/ver2_게시물본문_-_990px_(1).png)
 
-![ver2_마이페이지 - 990px (2).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f34393ee-8ba8-42bc-89d6-fb3b3e41702c/ver2_마이페이지_-_990px_(2).png)
+</details>
 
-### 기능정의서
+<details>
+<summary>마일스톤</summary>
+<img width="1120" alt="Untitled (3)" src="https://user-images.githubusercontent.com/90032920/192252979-19efff27-8e72-436a-a20a-d3f5c3999496.png">
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f34b5639-09ef-4400-881b-8bc754fee017/Untitled.png)
+</details>
 
-### 마일스톤
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3a5b05cf-6000-4406-b369-78bce7df600e/Untitled.png)
-
-[마일스톤](https://www.notion.so/fb6842e2e585471b835410fe962c9397)
 
 
