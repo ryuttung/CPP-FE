@@ -87,3 +87,34 @@ cafe place pick :p
 - Email : ✉️ seung43422@gmail.com
 - Works
 
+
+## 💁🏻 More Info
+### ERD(DB설계도)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/62aca5f9-4c0a-44d5-b3bb-6ddd70809a98/Untitled.png)
+
+### 메뉴 구성도
+
+![cpp_메뉴구성도 (1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a294bfe-a29e-4d89-a7cc-8a2464adf573/cpp_메뉴구성도_(1).png)
+
+### UI-Design
+
+![ver2_내주변리스트 - 990px (1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/97d42df8-afa2-46e1-a04d-1c98f485484e/ver2_내주변리스트_-_990px_(1).png)
+
+![ver2_게시물 작성- 990px.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f863d59b-1972-4c39-91a4-574ce057ef21/ver2_게시물_작성-_990px.png)
+
+![ver2_게시물본문 - 990px (1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/831889da-0f0e-4d84-b986-801f12879a99/ver2_게시물본문_-_990px_(1).png)
+
+![ver2_마이페이지 - 990px (2).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f34393ee-8ba8-42bc-89d6-fb3b3e41702c/ver2_마이페이지_-_990px_(2).png)
+
+### 기능정의서
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f34b5639-09ef-4400-881b-8bc754fee017/Untitled.png)
+
+### 마일스톤
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3a5b05cf-6000-4406-b369-78bce7df600e/Untitled.png)
+
+[마일스톤](https://www.notion.so/fb6842e2e585471b835410fe962c9397)
+
+
