@@ -88,39 +88,7 @@ cafe place pick :p
 - Works
 
 
-## 💁🏻 More Info
-<details>
-<summary>ERD(DB설계도)</summary>
-![Untitled (1)](https://user-images.githubusercontent.com/90032920/192253255-6dfe0e6b-a791-437a-b3df-1be23a63ea11.png)
-
-</details>
-
-<details>
-<summary>메뉴 구성도</summary>
-![cpp_메뉴구성도 (1)](https://user-images.githubusercontent.com/90032920/192253235-04981423-6497-44ee-bc8b-176aeead1c64.png)
-
-</details>
-
-<details>
-<summary>UI-Design</summary>
-![ver2_내주변리스트 - 990px (1)](https://user-images.githubusercontent.com/90032920/192253111-d9345374-cf17-4d5d-8f53-1bb3ba2ce3a4.png)
-![ver2_게시물 작성- 990px](https://user-images.githubusercontent.com/90032920/192253127-80f57c99-377b-4094-b9b5-8b4ac77be318.png)
-![ver2_마이페이지 - 990px (2)](https://user-images.githubusercontent.com/90032920/192253189-88aef292-bc75-4be4-9614-d4fbabf1f49f.png)
-
-</details>
-
-<details>
-<summary>기능정의서</summary>
-![Untitled (2)](https://user-images.githubusercontent.com/90032920/192253395-ccdbe445-bfe5-4810-836a-13a9b5c4da11.png)
-
-
-</details>
-
-<details>
-<summary>마일스톤</summary>
-<img width="1120" alt="Untitled (3)" src="https://user-images.githubusercontent.com/90032920/192252979-19efff27-8e72-436a-a20a-d3f5c3999496.png">
-
-</details>
+## [💁🏻 More Info](https://www.notion.so/C-P-P-cca45e2972f545c1b847190b35b260cd)
 
 
 
