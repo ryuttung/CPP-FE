@@ -1,6 +1,8 @@
 # C-P-P
 
 cafe place pick :p
+<img width="1777" alt="스크린샷 2023-03-06 오후 2 49 47" src="https://user-images.githubusercontent.com/90032920/223330963-6f8e7012-d2a8-481c-bde3-47c950f64bb2.png">
+
 
 
 
